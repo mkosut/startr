@@ -18,6 +18,7 @@ interface Link {
 	tags: string[];
 	categories: string[];
 	description: string;
+	banner: "https://picsum.photos/600/500";
 }
 
 const transformLinkValues = (link: Link): Link => {
