@@ -10,6 +10,7 @@ levels: L3, L4
 category: How to be a better manager/Leader
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

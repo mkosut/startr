@@ -9,6 +9,7 @@ levels: All
 category: How to be a better manager/Leader
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

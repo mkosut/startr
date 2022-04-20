@@ -10,6 +10,7 @@ category: Mental Health
 tags:
   - How to be a better manager/Leader
 notes: Gated
+banner: "https://picsum.photos/600/500"
 
 ---
 

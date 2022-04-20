@@ -9,6 +9,7 @@ levels: All
 category: Productivity
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

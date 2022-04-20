@@ -9,6 +9,7 @@ levels: L3,L4
 category: Founder Basics
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

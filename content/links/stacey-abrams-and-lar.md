@@ -9,6 +9,7 @@ levels: All
 category: Founder Inspiration Stories
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

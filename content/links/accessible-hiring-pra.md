@@ -10,6 +10,7 @@ category: Hiring
 tags:
   - Culture/Encouraging Diversity
 notes: Accessiblity
+banner: "https://picsum.photos/600/500"
 
 ---
 

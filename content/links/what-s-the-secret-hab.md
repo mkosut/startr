@@ -12,6 +12,7 @@ category: Mental Health
 tags:
   - How to be a better manager/Leader
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

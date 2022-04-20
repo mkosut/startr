@@ -10,6 +10,7 @@ category: How to be a better manager/Leader
 tags:
   - Culture/Encouraging Diversity
 notes: Gated after x amount of articles
+banner: "https://picsum.photos/600/500"
 
 ---
 

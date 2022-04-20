@@ -10,6 +10,7 @@ levels: All
 category: How to be a better manager/Leader
 tags: []
 notes: Not specifically for founders but a good resource
+banner: "https://picsum.photos/600/500"
 
 ---
 

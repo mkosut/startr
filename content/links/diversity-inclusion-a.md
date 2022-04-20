@@ -11,6 +11,7 @@ tags:
   - Early Stage
   - Hiring
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

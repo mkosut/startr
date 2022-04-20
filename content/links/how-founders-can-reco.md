@@ -10,6 +10,7 @@ category: Balanced Founder Lifestyle
 tags:
   - Mental Health
 notes: gated after x amount of articles
+banner: "https://picsum.photos/600/500"
 
 ---
 

@@ -9,6 +9,7 @@ levels: All
 category: Balanced Founder Lifestyle
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

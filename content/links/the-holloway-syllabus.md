@@ -10,6 +10,7 @@ category: Founder Basics
 tags:
   - Early Stage
 notes: Links to 90+ Resources
+banner: "https://picsum.photos/600/500"
 
 ---
 

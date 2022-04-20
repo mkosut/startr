@@ -10,6 +10,7 @@ category: Fundraising
 tags:
   - Founder Basics
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

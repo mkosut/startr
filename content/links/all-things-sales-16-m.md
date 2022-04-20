@@ -9,6 +9,7 @@ levels: L2,L3,L4
 category: Building a Sales Team
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

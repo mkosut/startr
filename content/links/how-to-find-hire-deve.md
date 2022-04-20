@@ -9,6 +9,7 @@ levels: L1, L2
 category: Hiring
 tags: []
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 

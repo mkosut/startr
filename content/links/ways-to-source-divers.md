@@ -10,6 +10,7 @@ category: Fundraising
 tags:
   - Culture/Encouraging Diversity
 notes: ""
+banner: "https://picsum.photos/600/500"
 
 ---
 
